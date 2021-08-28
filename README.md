@@ -7,5 +7,9 @@ Sorting algorithm visualizer GUI application made using C++ QtCreator
 
 
 
-https://user-images.githubusercontent.com/73256760/131229156-caa03ff7-94a4-4c9a-8f86-6173e7e62c58.mov
+
+
+https://user-images.githubusercontent.com/73256760/131229315-6400a899-de18-47eb-a2b5-e6326281a9a2.mov
+
+
 
